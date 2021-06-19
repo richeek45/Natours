@@ -1,0 +1,7 @@
+{
+  "singleQuote": true,
+  "prettier/prettier": ["error", {}, {
+    "usePrettierrc": false
+  }],
+  "endOfLine": "auto"
+}
